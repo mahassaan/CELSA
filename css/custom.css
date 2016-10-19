@@ -18,7 +18,7 @@ ul.nav {
 
 .jumbotron {
 
-background-image: url('../images/green.jpg');
+background-image: url('../images/Blue-16.jpg');
 text-align: center;
 margin-bottom: 0px;
 }
@@ -27,9 +27,16 @@ margin-bottom: 0px;
 
 		font-family: 'Arvo', courier, serif ; color: white;
 		margin-top: 0px;
-		margin-bottom: 50px;
+		margin-bottom: 20px;
 
 
+}
+
+.imgresponsive{
+    
+    max-width: 100%; 
+    height: auto;
+    
 }
 
 .jumbotron p{
@@ -76,7 +83,7 @@ color: #212d3d;
 
 .homepage a {
 
-	color: #689f11;
+	color: #0057a3;
 }
 
 .homepage a:hover{
@@ -88,7 +95,7 @@ color: #212d3d;
 
 .homepage hr{
 
-	border-top: 1px solid #659e12;
+	border-top: 1px solid #0055a2;
 	width: 160px;
 	margin-top: 15px;
 }
